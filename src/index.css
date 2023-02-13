@@ -11,3 +11,94 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.comp-a{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-image: linear-gradient(to left, rgb(141, 67, 67), rgb(27, 59, 27), rgb(47, 47, 173) );
+}
+.text-calc{
+  text-align: center;
+  padding-top: 60px;
+  font-size: 50px;
+  color: darkgrey;
+}
+.comp-a-child-cont{
+  width: 35%;
+  min-height: 300px;
+  background-color: aquamarine;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+.p-ampont-label{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight: 510;
+  color: brown;
+  margin-right: 20px;
+}
+.calc-here{
+  font-size: 25px;
+}
+.input-box-style{
+  height: 30px;
+  font-size: 19px;
+  font-weight: bold;
+  padding: 7px;
+}
+.comp-b-sunt-cont-d{
+  margin-top: 20px;
+}
+.comp-e{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.response-para{
+  color: red;
+  font-size: 18px;
+  font-weight: 525;
+}
+.thank-tag{
+  color: blueviolet;
+  font-family: cursive;
+  font-size: 24px;
+}
+.total-button{
+  height: 30px;
+  width: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+  font-weight: 550;
+  border-style: none;
+  border-radius: 10px;
+  background-color: chartreuse;
+  text-align: center;
+}
+.comp-g{
+  padding: 30px;
+}
+.ab-calculator-heading{
+  color: lime;
+  font-size: 25px;
+}
+.into-para{
+  color: lightseagreen;
+  font-family: cursive;
+  font-size: 19px;
+  margin-left: 30px;
+}
+.hori-line{
+  border: 1px solid chocolate;
+  width: 90%;
+}
+.output-img{
+  margin-left: 20%;
+}
